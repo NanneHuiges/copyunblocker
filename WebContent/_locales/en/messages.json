@@ -1,6 +1,5 @@
 {
 	"description": { 
-		"message": "Unblocker",
-		"description": "Unlock copy text from web-page"
+		"message": "Stops websites from blocking copy-pasta via hijacking javascript functions."
 	}
 }
